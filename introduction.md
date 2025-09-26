@@ -1,4 +1,4 @@
-Hi, I’m **Tyler Do**, a senior Computer Science major at the University of Maryland, College Park (expected graduation May 2026).  
+Hi, I’m **Tyler Do**, a junior Computer Science major at the University of Maryland, College Park (expected graduation December 2026).  
 
 This ePortfolio showcases my skills and projects in computer science.  
 
