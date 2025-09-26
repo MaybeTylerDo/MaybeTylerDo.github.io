@@ -11,5 +11,5 @@ This site showcases my **projects, skills, and resume**. Feel free to explore th
 
 - 📄 [My Introduction](introduction.md)  
 - 💻 [Projects](projects.md)  
-- 📜 [Resume (PDF)](resume.pdf)  
+- 📜 [Resume (PDF)](TylerDoResume.pdf)  
 - ✉️ [Contact](mailto:tyler.do248@gmail.com)
