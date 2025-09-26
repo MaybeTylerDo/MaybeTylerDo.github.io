@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "Tyler Do"
 permalink: /
 ---
-
 
 # Welcome!
 
