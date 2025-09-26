@@ -6,14 +6,12 @@ permalink: /
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="assets/banner.png" alt="Banner" style="height:150px; object-fit:cover;">
-  <img src="assets/profile.jpg" alt="Profile Picture" style="width:150px; border-radius:50%;">
+  <img src="assets/profile.jpg" alt="Profile Picture" style="width:150px; border-radius:50%; border:4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </div>
-
-
 
 # Welcome!
 
-Hi, I'm **Tyler Dop**, a junior Computer Science student at the University of Maryland, College Park.  
+Hi, I'm **Tyler Do**, a junior Computer Science student at the University of Maryland, College Park.  
 
 This site showcases my **projects, skills, and resume**. Feel free to explore the pages below for more information.
 
