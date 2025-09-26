@@ -1,7 +1,8 @@
 ---
 layout: home
-title: "Home"
+title: Home
 ---
+
 
 # Welcome
 
