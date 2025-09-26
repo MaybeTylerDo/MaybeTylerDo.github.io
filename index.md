@@ -3,6 +3,8 @@ layout: default
 title: "Tyler Do"
 permalink: /
 ---
+![Profile Picture](assets/profile.jpg){: style="width:150px; border-radius:50%;" }
+![Banner](assets/banner.png)
 
 # Welcome!
 

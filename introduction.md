@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Introduction"
+title: "Tyler Do"
 permalink: /introduction/
 ---
 ## About Me
