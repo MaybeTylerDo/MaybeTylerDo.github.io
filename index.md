@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Tyler Do Portfolio"
+layout: default
+title: "Home"
 permalink: /
 ---
 # Welcome!
