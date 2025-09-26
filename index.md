@@ -3,10 +3,9 @@ layout: default
 title: "Tyler Do"
 permalink: /
 ---
-<div style="width: 100%; background-color: black ; padding: 20px 0;">
-  <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
-![Profile Picture](assets/profile.jpg){: style="width:150px; border-radius:50%;" }
-![Banner](assets/banner.png)
+
+![Banner](assets/banner.png)![Profile Picture](assets/profile.jpg){: style="width:150px; border-radius:50%;" }
+
 
 # Welcome!
 
@@ -39,5 +38,3 @@ Collaboration, Communication, Problem Solving, Time Management, Consistent, Atte
 ## Contact Info
 - 240-744-6578
 - tyler.do248@gmail.com
-</div>
-</div>
