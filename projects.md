@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 ## My Projects
 
-### PokeDex First Generation (Javascript)
+### [PokeDex First Generation (Javascript)](https://github.com/jinanway/pokedex335?tab=readme-ov-file)
 - Collaborated with a team to build an app using the official Pokemon API to display the first 151 Pokemon.
 - Implemented search and sort features by name and ID using routes.
 - Added user rating system with database storage and rating-based display.
