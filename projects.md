@@ -10,7 +10,7 @@ permalink: /projects/
 - Implemented search and sort features by name and ID using routes.
 - Added user rating system with database storage and rating-based display.
 
-### [Town and Road Map Simulator (Java)](https://github.com/NotTylerDo/MCSchool/tree/main/TDo_Project5){:target="_blank"}
+### [Town and Road Map Simulator (Java)](https://github.com/NotTylerDo/repo/tree/main/DoTyler_Assignment6){:target="_blank"}
 - Implemented backend for a provided GUI modeling towns (vertices) and roads (edges) as a weighted graph.
 - Wrote methods for graph management and exception handling.
 - Applied Dijkstra's algorithm to compute shortest paths between towns.
