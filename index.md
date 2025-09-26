@@ -4,7 +4,11 @@ title: "Tyler Do"
 permalink: /
 ---
 
-![Banner](assets/banner.png)![Profile Picture](assets/profile.jpg){: style="width:150px; border-radius:50%;" }
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="assets/banner.png" alt="Banner" style="height:150px; object-fit:cover;">
+  <img src="assets/profile.jpg" alt="Profile Picture" style="width:150px; border-radius:50%;">
+</div>
+
 
 
 # Welcome!
