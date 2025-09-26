@@ -3,7 +3,7 @@ layout: default
 title: "Tyler Do"
 permalink: /
 ---
-<div style="width: 100%; background-color: #f0f0f0; padding: 20px 0;">
+<div style="width: 100%; background-color: black ; padding: 20px 0;">
   <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
 ![Profile Picture](assets/profile.jpg){: style="width:150px; border-radius:50%;" }
 ![Banner](assets/banner.png)
