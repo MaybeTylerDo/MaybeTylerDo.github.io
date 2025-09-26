@@ -15,11 +15,11 @@ Hi, I'm **Tyler Do**, a junior Computer Science student at the University of Mar
 
 This site showcases my **projects, skills, and resume**. Feel free to explore the pages below for more information.
 
-- 📄 [Personal Statement](introduction.md)  
-- 💻 [Projects](projects.md)  
-- 📜 [Resume (PDF)](assets/TylerDoResume.pdf) 
+- 📄 [Personal Statement](introduction.md){:target="_blank"}  
+- 💻 [Projects](projects.md){:target="_blank"}  
+- 📜 [Resume (PDF)](assets/TylerDoResume.pdf){:target="_blank"} 
 
-## Skills Snapshot
+## Skills
 
 **Programming Languages:**  
 Java, Javascript, Python, C++, C, OCaml, Racket, Rust, Pandas, SQL, Y86-64 Assembly, A86 Assembly
@@ -34,8 +34,8 @@ HTML, CSS, Node.js
 Collaboration, Communication, Problem Solving, Time Management, Consistent, Attention to Detail, Flexibility, Dedicated
 
 ## GitHub Pages
-- [MaybeTylerDo](https://github.com/MaybeTylerDo)
-- [NotTylerDo](https://github.com/NotTylerDo)
+- [MaybeTylerDo](https://github.com/MaybeTylerDo){:target="_blank"}
+- [NotTylerDo](https://github.com/NotTylerDo){:target="_blank"}
 
 ## Contact Info
 - 240-744-6578
