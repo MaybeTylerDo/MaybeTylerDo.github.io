@@ -3,6 +3,7 @@ title: Tyler Do
 description: Junior Computer Science Major at UMD
 
 header_pages:
+  - index.md
   - introduction.md
   - projects.md
   - resume.md
