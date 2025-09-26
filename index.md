@@ -3,6 +3,9 @@ layout: default
 title: "Home"
 permalink: /
 ---
+![Profile Picture](assets/profile.jpg){: style="width:150px; border-radius:50%;" }
+![Banner](assets/banner.png)
+
 # Welcome!
 
 Hi, I'm **Tyler Do**, a junior Computer Science student at the University of Maryland, College Park.  
@@ -11,7 +14,7 @@ This site showcases my **projects, skills, and resume**. Feel free to explore th
 
 - 📄 [Personal Statement](introduction.md)  
 - 💻 [Projects](projects.md)  
-- 📜 [Resume (PDF)](TylerDoResume.pdf) 
+- 📜 [Resume (PDF)](assets/TylerDoResume.pdf) 
 
 ## Skills Snapshot
 
