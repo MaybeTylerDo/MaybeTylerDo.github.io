@@ -13,7 +13,7 @@ permalink: /
 
 # Welcome!
 
-Hi, I'm **Tyler Do**, a junior Computer Science student at the University of Maryland, College Park.  
+Hi, I'm **Tyler Dop**, a junior Computer Science student at the University of Maryland, College Park.  
 
 This site showcases my **projects, skills, and resume**. Feel free to explore the pages below for more information.
 
