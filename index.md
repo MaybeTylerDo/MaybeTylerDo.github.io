@@ -6,7 +6,7 @@ permalink: /
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="assets/banner.png" alt="Banner" style="height:150px; object-fit:cover;">
-  <img src="assets/profile.jpg" alt="Profile Picture" style="width:150px; border-radius:50%; border:4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <img src="assets/profile.jpg" alt="Profile Picture" style="width:150px; border-radius:50%; border:4px solid black; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </div>
 
 # Welcome!
