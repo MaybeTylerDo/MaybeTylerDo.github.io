@@ -1,9 +1,14 @@
-Hi, I’m **Tyler Do**, a junior Computer Science major at the University of Maryland, College Park (expected graduation December 2026).  
+---
+layout: page
+title: "Introduction"
+permalink: /introduction/
+---
+## About Me
 
-This ePortfolio showcases my skills and projects in computer science.  
+Hello! I'm Tyler, passionate about **programming, problem-solving, and web development**.  
+I enjoy working on projects that challenge me to **think critically** and **learn new technologies**.  
 
-- 📄 [My Introduction](introduction.md)  
-- 💻 [Projects](projects.md)  
-- 📜 [Resume (PDF)](resume.pdf)  
-- ✉️ [Contact]()
-- []
+I’m currently focused on:
+- Data structures and algorithms  
+- Full-stack web development  
+- Functional programming (OCaml, Python)

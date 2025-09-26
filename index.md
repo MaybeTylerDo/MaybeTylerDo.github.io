@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "Introduction"
+title: "Tyler Do Portfolio"
 permalink: /
 ---
-Hi, I'm Tyler — a Computer Science student at UMD (Class of 2026).  
-Welcome to my portfolio site!
+# Welcome!
+
+Hi, I'm **Tyler Do**, a Computer Science student at the University of Maryland, College Park (Class of 2026).  
+
+This site showcases my **projects, skills, and resume**. Feel free to explore the pages above for more information.
